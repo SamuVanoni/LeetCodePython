@@ -12,7 +12,7 @@ for operation in operations:
 if operation == "--X" or operation == "X--":
 ```
 
-3. Python não aceita `x++`, temos que realizar `x += 1`
+3. Python does not accept `x++`, we have to perform `x += 1`
 ```python
 x += 1
 ```
