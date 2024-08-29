@@ -29,8 +29,8 @@ After learning the solution, look for a similar exercise and put the learning in
 
 | # | Title | Solution | Acceptance | Difficulty | Summary |
 |---| ----- | -------- | ---------- | ---------- | ------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](/src/1_two_sum/main.py) | 53.5% | Easy | [Description](/src/1_two_sum/readme.md) |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](/src/771_jewels_and_stones/main.py) | 88.8% | Easy | [Description](/src/771_jewels_and_stones/readme.md) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](/src/0001_two_sum/main.py) | 53.5% | Easy | [Description](/src/0001_two_sum/readme.md) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](/src/0771_jewels_and_stones/main.py) | 88.8% | Easy | [Description](/src/0771_jewels_and_stones/readme.md) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](/src/1108_defanging_an_ip_address/main.py) | 89.3% | Easy | [Description](/src/1108_defanging_an_ip_address/readme.md) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [Python](/src/1689_partioning_into_minimun_number_of_deci-binary_numbers/main.py) | 88.7% | Medium | [Description](/src/1689_partioning_into_minimun_number_of_deci-binary_numbers/readme.md) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Python](/src/2011_final_value_of_variable_after_performing_operations/main.py) | 	89.4% | Easy | [Description](/src/2011_final_value_of_variable_after_performing_operations/readme.md) |
