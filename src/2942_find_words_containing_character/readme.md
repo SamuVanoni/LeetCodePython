@@ -14,7 +14,7 @@ for i, word in enumerate(words):
     sentinel = False
 return counts
 ```
-My solution uses 2 functions and 1 sentinel variable
+My solution uses 2 loops and 1 sentinel variable
 
 
 2. User's solution
