@@ -5,11 +5,7 @@ class Solution(object):
         :type indices: List[int]
         :rtype: str
         """
-        ans = ""
-        count = 0
-        for i in range(len(indices)):
-            for j in range(len(indices)):
-                if indices[j] == count:
-                    ans += s[j]
-                    count += 1
-        return ans
+        r=""
+        for i in range(len(s)):
+            r += s[indices.index(i)]
+        return r
