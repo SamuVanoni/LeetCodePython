@@ -34,6 +34,7 @@ After learning the solution, look for a similar exercise and put the learning in
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](/src/0011_container_with_most_water/main.py) | 56.0% | Medium | [Description](/src/0011_container_with_most_water/readme.md) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](/src/0013_roman_to_integer/main.py) | 62.5% | Easy | [Description](/src/0013_roman_to_integer/readme.md) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](/src/0020_valid_parentheses/main.py) | 41.0% | Easy | [Description](/src/0020_valid_parentheses/readme.md) |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Python](/src/0709_to_lower_case/main.py) | 83.6% | Easy | [Description](/src/0709_to_lower_case/readme.md) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](/src/0771_jewels_and_stones/main.py) | 88.8% | Easy | [Description](/src/0771_jewels_and_stones/readme.md) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](/src/1108_defanging_an_ip_address/main.py) | 89.3% | Easy | [Description](/src/1108_defanging_an_ip_address/readme.md) |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Python](/src/1221_split_a_string_in_balanced_strings/main.py) | 86.4% | Easy | [Description](/src/1221_split_a_string_in_balanced_strings/readme.md) |
