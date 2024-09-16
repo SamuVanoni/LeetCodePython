@@ -8,8 +8,8 @@ class Solution(object):
         i = 0
         j = 0
 
-        # Dicionário para mapear comandos para funções de movimento
-        comandos = {
+        # Dictionary for mapping commands to movement functions
+        c = {
             "RIGHT": lambda i, j: (i, j + 1),
             "LEFT": lambda i, j: (i, j - 1),
             "DOWN": lambda i, j: (i + 1, j),
@@ -17,24 +17,24 @@ class Solution(object):
         }
 
         for command in commands:
-            # Obter a função correspondente e atualizar (i, j)
-            if command in comandos:
-                i, j = comandos[command](i, j)
+            # Get the corresponding function and update (i, j)
+            if command in c:
+                i, j = c[command](i, j)
             else:
                 return "Error"
 
-        matriz = criar_matriz_nxn(n)
-        return matriz[i][j]
+        matrix = create_matrix(n)
+        return matrix[i][j]
 
-def criar_matriz_nxn(n):
-    # Inicializar a matriz
-    matriz = [[0] * n for _ in range(n)]
+def create_matrix(n):
+    # Initialize
+    matrix = [[0] * n for _ in range(n)]
     
-    # Preencher a matriz com valores de 0 a n*n - 1
-    valor = 0
+    # Fill the matrix with values ​​from 0 to n*n - 1
+    value = 0
     for i in range(n):
         for j in range(n):
-            matriz[i][j] = valor
-            valor += 1
+            matrix[i][j] = value
+            value += 1
 
-    return matriz
+    return matrix
