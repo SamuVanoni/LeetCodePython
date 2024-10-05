@@ -6,5 +6,5 @@ class Solution(object):
         :rtype: str
         """
         while part in s:
-            s = s.replace(part, '', 1) // Remove 1 by 1
+            s = s.replace(part, '', 1) # Remove 1 by 1
         return s
