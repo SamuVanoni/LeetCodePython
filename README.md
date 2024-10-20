@@ -35,6 +35,7 @@ After learning the solution, look for a similar exercise and put the learning in
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](/src/0013_roman_to_integer/main.py) | 62.5% | Easy | [Description](/src/0013_roman_to_integer/readme.md) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](/src/0020_valid_parentheses/main.py) | 41.0% | Easy | [Description](/src/0020_valid_parentheses/readme.md) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](/src/0344_reverse_string/main.py) | 79.0% | Easy | [Description](/src/0344_reverse_string/readme.md) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Python](/src/0349_intersection_of_two_arrays/main.py) | 75.4% | Easy | [Description](/src/0349_intersection_of_two_arrays/readme.md) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Python](/src/0557_reverse_words_in_a_string_3/main.py) | 83.3% | Easy | [Description](/src/0557_reverse_words_in_a_string_3/readme.md) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Python](/src/0709_to_lower_case/main.py) | 83.6% | Easy | [Description](/src/0709_to_lower_case/readme.md) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](/src/0771_jewels_and_stones/main.py) | 88.8% | Easy | [Description](/src/0771_jewels_and_stones/readme.md) |
