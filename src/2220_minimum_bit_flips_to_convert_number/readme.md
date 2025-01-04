@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned how to use XOR:
+### In this challenge I learned how to use XOR:
 
 1. Marks all positions with the number 1 where the start and goal bits are different.
 ```Python

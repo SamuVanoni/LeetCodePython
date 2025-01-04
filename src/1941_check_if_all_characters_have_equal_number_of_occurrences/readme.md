@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned new functions:
+### In this challenge I learned new functions:
 
 1. We store in an array how many times each letter is repeated
 ```python

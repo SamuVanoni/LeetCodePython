@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I leraned more about logic:
+### In this challenge I learned more about logic:
 
 1. I made a loop that counts how many 0s are at the end of the string
 ```python

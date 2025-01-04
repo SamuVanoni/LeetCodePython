@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned:
+### In this challenge I learned:
 
 1. How to remove an element and insert at the beginning
 ```python

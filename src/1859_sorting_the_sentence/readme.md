@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned more about:
+### In this challenge I learned more about:
 
 1. Storing values ​​in the dictionary with the key being the last letter of the word
 ```python

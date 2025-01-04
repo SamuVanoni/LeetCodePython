@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I leraned more about logic:
+### In this challenge I learned more about logic:
 
 1. We go through the entire word with two pointers and if the letters are different we switch to the smallest element.
 ```python

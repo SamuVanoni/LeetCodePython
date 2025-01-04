@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned a new form to solve problems:
+### In this challenge I learned a new form to solve problems:
 
 1. In it we create a list that will have elements removed and added as needed, and if there are no elements in it yet, we add 1 to the count.
 ```python

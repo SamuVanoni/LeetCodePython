@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned more about logic:
+### In this challenge I learned more about logic:
 
 1. We start by sorting in descending order to save time
 ```python

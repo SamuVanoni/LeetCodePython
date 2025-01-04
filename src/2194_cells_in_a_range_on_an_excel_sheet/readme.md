@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned:
+### In this challenge I learned:
 
 1. How to create a loop with letters of the alphabet directly from a string
 ```Python

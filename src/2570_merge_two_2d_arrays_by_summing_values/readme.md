@@ -1,6 +1,6 @@
 ## What Did I Learn?
 
-### In this challenge I lerned more about dictionary:
+### In this challenge I learned more about dictionary:
 
 1. We start by adding the elements to the dictionary according to the key. If the dictionary already has the key, we add the value to it.
 ```python
