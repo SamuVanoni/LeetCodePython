@@ -38,6 +38,7 @@ After learning the solution, look for a similar exercise and put the learning in
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](/src/0344_reverse_string/main.py) | 79.0% | Easy | [Description](/src/0344_reverse_string/readme.md) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Python](/src/0349_intersection_of_two_arrays/main.py) | 75.4% | Easy | [Description](/src/0349_intersection_of_two_arrays/readme.md) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Python](/src/0557_reverse_words_in_a_string_3/main.py) | 83.3% | Easy | [Description](/src/0557_reverse_words_in_a_string_3/readme.md) |
+| 561 | [Array Partition](https://leetcode.com/problems/array-partition) | [Python](/src/0561_array_partition/main.py) | 79.9% | Easy | [Description](/src/0561_array_partition/readme.md) |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python](/src/0647_palindromic_substrings/main.py) | 70.8% | Medium | [Description](/src/0647_palindromic_substrings/readme.md) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Python](/src/0696_count_binary_substrings/main.py) | 65.7% | Easy | [Description](/src/0696_count_binary_substrings/readme.md) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Python](/src/0709_to_lower_case/main.py) | 83.6% | Easy | [Description](/src/0709_to_lower_case/readme.md) |
