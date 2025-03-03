@@ -34,6 +34,7 @@ After learning the solution, look for a similar exercise and put the learning in
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Python](/src/0011_container_with_most_water/main.py) | 56.0% | Medium | [Description](/src/0011_container_with_most_water/readme.md) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](/src/0013_roman_to_integer/main.py) | 62.5% | Easy | [Description](/src/0013_roman_to_integer/readme.md) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](/src/0020_valid_parentheses/main.py) | 41.0% | Easy | [Description](/src/0020_valid_parentheses/readme.md) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Python](/src/0048_rotate_image/main.py) | 77.1% | Medium | [Description](/src/0048_rotate_image/readme.md) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Python](/src/0075_sort_colors/main.py) | 65.4% | Medium | [Description](/src/0075_sort_colors/readme.md) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Python](/src/0344_reverse_string/main.py) | 79.0% | Easy | [Description](/src/0344_reverse_string/readme.md) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Python](/src/0349_intersection_of_two_arrays/main.py) | 75.4% | Easy | [Description](/src/0349_intersection_of_two_arrays/readme.md) |
